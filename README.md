@@ -1,6 +1,6 @@
 # Overview
 
-This is a collection of weird filenames and edge cases of the filesystem and of a git repo. Its intended use it to test scripts against it to make sure they'll work correctly.
+This is a collection of weird filename edge cases. Its intended use is as a testcase for other programs that deal with the filesystem.
 
 ## List of wtfiles
 
@@ -20,7 +20,7 @@ This is a collection of weird filenames and edge cases of the filesystem and of 
   * `file with spaces.txt`
   * `file with spaces and no extension`
 * File with symbols
-  * `file with symbols {}!\@\#$%^&*()_+~\`'";:<>.,?[]|\\`
+  * `` file with symbols {}!\@\#$%^&*()_+~`'";:<>.,?[]|\\ ``
 * File whose name contains new lines `\n`
   * `file with\nnew lines\n`
 * File whose name contains tabs `\t`
@@ -42,7 +42,7 @@ This is a collection of weird filenames and edge cases of the filesystem and of 
 * Pile of poo file
   * `💩`
 * Hidden files
-  * `.hidden.
+  * `.hidden.`
 * File with all ASCII codes from 1 to 127
   * `ASCII-LOVE-1-127...`
 * File with all ASCII codes from 128 to 255
@@ -50,4 +50,4 @@ This is a collection of weird filenames and edge cases of the filesystem and of 
 
 ## Contributing
 
-Do you know an edge case that's not included in this collection? Please open a pull request.
+Do you know an edge case that's not included in this collection? Please send a pull request.
