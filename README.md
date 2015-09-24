@@ -47,6 +47,8 @@ This is a collection of weird filename edge cases. Its intended use is as a test
   * `ASCII-LOVE-1-127...`
 * File with all ASCII codes from 128 to 255
   * `ASCII-LOVE-128-255...`
+* Non UTF-8 ISO umlaut file
+  * `test-umläut-file.txt`
 
 ## Contributing
 
