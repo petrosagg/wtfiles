@@ -49,7 +49,7 @@ This is a collection of weird filename edge cases. Its intended use is as a test
   * `ASCII-LOVE-128-255...`
 * Non UTF-8 ISO umlaut file
   * `test-umläut-file.txt`
-
+* File whose name is "-f", but how will you remove this file usng terminal
 ## Contributing
 
 Do you know an edge case that's not included in this collection? Please send a pull request.
